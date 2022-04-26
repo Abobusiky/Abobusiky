@@ -1,0 +1,2 @@
+token = ''
+OWM_TOKEN = ''
